@@ -3,7 +3,7 @@
 ## Hediondez del código
 Como hediondez de código, entendemos que el código esta mal escrito, no por tener bugs, sino por estar escrito o con demasiadas líneas cosas que se podrían solucionar en 2 líneas o código muy corto y muy específico que impide la modularidad del programa. 
 
-*Ejemplos
+**Ejemplos**:
  + Ejemplo1: Métodos demasiado largos que luego resultan imposibles de cambiar.
  + Ejemplo2: Ifs que no tienen sentido o que se contradicen con otros ifs.
  + Ejemplo3: Muchos Ifs que se pueden solucionar con un CASE.
@@ -21,7 +21,7 @@ El análisis de código estático, és mucho más rápido que el dinámico ya qu
 
 Tenemos diferentes herramientas para el análisis estático. Un caso sería el linter, que nos dice donde hay código redundante, código con errores, etc., para que nosotros como programadores podamos solucionar-los.
 Hay diferentes programas, por ejemplo:
- + Lint: C
+ + **Lint**: C
  + Sonar: Java
  + JSLint, ESLint: Javascript
 Hay que decir que la mayoría de estos programas tienen plan de pago, pero siempre tenemos opciones free hechas por la comunidad.
