@@ -3,7 +3,7 @@
 ## Hediondez del código
 Como hediondez de código, entendemos que el código esta mal escrito, no por tener bugs, sino por estar escrito o con demasiadas líneas cosas que se podrían solucionar en 2 líneas o código muy corto y muy específico que impide la modularidad del programa. 
 
-* Ejemplos
+*Ejemplos
  + Ejemplo1: Métodos demasiado largos que luego resultan imposibles de cambiar.
  + Ejemplo2: Ifs que no tienen sentido o que se contradicen con otros ifs.
  + Ejemplo3: Muchos Ifs que se pueden solucionar con un CASE.
